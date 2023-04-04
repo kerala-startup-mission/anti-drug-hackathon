@@ -240,7 +240,7 @@
     .header-top-left p, .header-top-right ul li a {font-size: 12px}
     .event-area.one .single-event .event-content-right{ overflow: hidden}
     .event-area.one .single-event .event-content-right a{text-align: center; float: none; margin-top: 10px}
-    .slider-area {height: 75vh}
+    .slider-area {height: auto;}
     .sticky .logo {padding: 15px 0 6px; width: 90%}
     .header-area.two.sticky .mean-container a.meanmenu-reveal {margin-top: -41px}
     .sticky .search-btn {top: 11px}
