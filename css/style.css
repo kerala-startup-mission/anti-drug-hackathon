@@ -1593,11 +1593,16 @@ textarea {
 .section-title > img {
     margin-bottom: 2px;
 }
+.single-course{
+    height: 100%;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15); 
+    /* margin-bottom: 20px; */
+}
 .course-content{
     
-    height: 320px;
+    /* height: 260px; */
     padding: 22px 30px 25px;
-    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15); 
+    /* box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15);  */
 }
 .course-img img {
     width: 100%;
@@ -1617,7 +1622,7 @@ textarea {
     color: #606060;
     margin-bottom: 20px;
     font-family: 'Courier New', Courier, monospace;
-   
+    line-height:30px ;
 }
 .course-content .default-btn {
     font-size: 14px;
@@ -2159,7 +2164,7 @@ textarea {
 .course-content{
     padding: 22px 30px 25px;
    
-    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15); 
+    /* box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15);  */
 }
 .course-img img {
     width: 100%;
