@@ -1591,8 +1591,8 @@ textarea {
     margin-bottom: 2px;
 }
 .course-content{
-    text-align: justify;
-    height: 200px;
+    
+    height: 240px;
     padding: 22px 30px 25px;
     box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.15); 
 }
@@ -1608,10 +1608,12 @@ textarea {
     margin-bottom: 10px;
 }
 .course-content p{
-    font-size: 14px;
+    margin: auto;
+    text-align: justify;
+    font-size: 30px;
     color: #606060;
     margin-bottom: 20px;
-    font-family: "Open Sans",sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     line-height:30px ;
 }
 .course-content .default-btn {
@@ -2132,10 +2134,10 @@ textarea {
     color: #fff;
     font-size: 14px;
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .choose-content a{
-    margin-top: 15px;
+    margin-top: 10px;
 }
 /*----------------------------------------*/
 /*  6. Courses CSS
@@ -2158,7 +2160,7 @@ textarea {
 }
 .course-img img {
     width: 100%;
-    height: 150px;
+    height: 200px;
 }
 .course-content h3{
     font-size: 22px;
